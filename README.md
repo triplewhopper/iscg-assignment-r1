@@ -38,6 +38,4 @@ to
     ti.init(arch=ti.gpu)
 ```
 ## Demo
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="./demo.mp4" type="video/mp4">
-</video>
+https://github.com/triplewhopper/iscg2024-assignment-r1/assets/34619815/d18825f3-db9f-456f-96c5-9f23e751145d
