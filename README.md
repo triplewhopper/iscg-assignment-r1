@@ -8,13 +8,13 @@ This is the repository for the rendering part 1 assignment for the lecture Compu
     - [x] Torus
 
 - [x] Interactive Camera
-    `W`: Move forward
-    `S`: Move backward
-    `A`: Move left
-    `D`: Move right
-    `Q`: Move up
-    `E`: Move down
-    Press and hold `Right Mouse Button` to rotate the camera
+    - `W`: Move forward
+    - `S`: Move backward
+    - `A`: Move left
+    - `D`: Move right
+    - `Q`: Move up
+    - `E`: Move down
+    - Press and hold `Right Mouse Button` to rotate the camera
 
 - [x] Panel for changing size of the shapes
 - [x] Shading
